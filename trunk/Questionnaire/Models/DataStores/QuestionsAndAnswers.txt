@@ -1,0 +1,9 @@
+﻿Is this a sample question?, *Yes, No, Maybe
+Or is this a sample question?, Yes, *No, Maybe
+How is the weather?, Hot, *Warm, Cold
+What is today?, *Monday, Tuesday, Wednesday, Thursday, Friday, Saturday
+Which month is it?, *January, February, Smarch...Stupid Smarch, March, April
+Do you watch the Simpsons?, *Of course, No, Who?
+What should I do tonight?, *Try to take over the world!, Chill-lax, Eat a burrito
+So left or right?, *Up or down?, Back or forth?, ...you got me.
+How many is five?, Seven, *Forty-Two, Five
