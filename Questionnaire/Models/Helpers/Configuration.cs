@@ -10,6 +10,21 @@ namespace Questionnaire.Models
             get { return ConfigurationSettings.AppSettings[ "DataStoreName" ]; }
         }
 
+        internal static string MessageRecipient
+        {
+            get { return ConfigurationSettings.AppSettings[ "MessageRecipient" ]; }
+        }
+
+        internal static string MessageSender
+        {
+            get { return ConfigurationSettings.AppSettings[ "MessageSender" ]; }
+        }
+
+        internal static string MessageServer
+        {
+            get { return ConfigurationSettings.AppSettings[ "MessageServer" ]; }
+        }
+
         internal static int NumberOfQuestionsToDisplay
         {
             get

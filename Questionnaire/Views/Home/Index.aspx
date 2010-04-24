@@ -49,7 +49,7 @@
             <div id="footer">
                 <div><input class="button" type="button" value="Submit" /></div>
                 <dl>
-                    <dt><%= Questionnaire.Models.Person.Name %></dt>
+                    <dt id="personName"><%= Questionnaire.Models.Person.Name %></dt>
                     <dd>
                         <table>
                             <thead>
