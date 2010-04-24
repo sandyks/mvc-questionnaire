@@ -10,3 +10,9 @@ C:\Projects\Questionnaire\DEV\Questionnaire\bin\Questionnaire.pdb
 C:\Projects\Questionnaire\DEV\Questionnaire\obj\Debug\ResolveAssemblyReference.cache
 C:\Projects\Questionnaire\DEV\Questionnaire\obj\Debug\Questionnaire.dll
 C:\Projects\Questionnaire\DEV\Questionnaire\obj\Debug\Questionnaire.pdb
+C:\Projects\MVC-Questionnaire\trunk\Questionnaire\bin\Models\DataStores\QuestionsAndAnswers.txt
+C:\Projects\MVC-Questionnaire\trunk\Questionnaire\bin\Questionnaire.dll
+C:\Projects\MVC-Questionnaire\trunk\Questionnaire\bin\Questionnaire.pdb
+C:\Projects\MVC-Questionnaire\trunk\Questionnaire\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\MVC-Questionnaire\trunk\Questionnaire\obj\Debug\Questionnaire.dll
+C:\Projects\MVC-Questionnaire\trunk\Questionnaire\obj\Debug\Questionnaire.pdb

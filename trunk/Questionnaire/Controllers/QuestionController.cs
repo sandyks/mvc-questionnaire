@@ -27,6 +27,6 @@ namespace Questionnaire.Controllers
                     Question.IsCorrect (
                         question.SubmittedAnswerId,
                         question.Id ).ToString ( ) );
-        }
+        }      
     }
 }
